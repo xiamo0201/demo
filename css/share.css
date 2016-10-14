@@ -1,0 +1,40 @@
+/* line 80, icon/*.png */
+.icon-sprite, .icon-complete, .icon-cooperation, .icon-smile, .icon-trophy, .icon-up {
+  background-image: url('/img/icon-s2a759a4d58.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, d:/ruby/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-complete {
+  background-position: 0 0;
+  height: 50px;
+  width: 50px;
+}
+
+/* line 84, d:/ruby/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-cooperation {
+  background-position: 0 -50px;
+  height: 50px;
+  width: 50px;
+}
+
+/* line 84, d:/ruby/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-smile {
+  background-position: 0 -100px;
+  height: 50px;
+  width: 50px;
+}
+
+/* line 84, d:/ruby/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-trophy {
+  background-position: 0 -150px;
+  height: 50px;
+  width: 50px;
+}
+
+/* line 84, d:/ruby/Ruby23-x64/lib/ruby/gems/2.3.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-up {
+  background-position: 0 -200px;
+  height: 50px;
+  width: 50px;
+}

@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+// 配置sprite的布局方式
+
+
+$icon-layout: smart;  // vertical/horizontal/diagonal/smart
+
+// 自动输出尺寸
+
+$icon-sprite-dimensions: true;
+
+$icon-repeat: no-repeat;
+
+@import "compass/utilities/sprites";  // 加载compass sprites模块
+
+@import "icon/*.png";                // 导入icon目录下所有png图片
+
+@include all-icon-sprites;
